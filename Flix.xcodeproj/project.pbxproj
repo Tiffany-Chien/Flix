@@ -17,6 +17,7 @@
 		21FB8BF226FD084900915658 /* FlixUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21FB8BF126FD084900915658 /* FlixUITests.swift */; };
 		21FB8C0026FD313F00915658 /* MovieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21FB8BFF26FD313F00915658 /* MovieViewController.swift */; };
 		21FB8C0326FD44DA00915658 /* AlamofireImage in Frameworks */ = {isa = PBXBuildFile; productRef = 21FB8C0226FD44DA00915658 /* AlamofireImage */; };
+		21FB8C0526FDA35900915658 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21FB8C0426FDA35900915658 /* MovieCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		21FB8BF126FD084900915658 /* FlixUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlixUITests.swift; sourceTree = "<group>"; };
 		21FB8BF326FD084900915658 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		21FB8BFF26FD313F00915658 /* MovieViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieViewController.swift; sourceTree = "<group>"; };
+		21FB8C0426FDA35900915658 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				21FB8BD326FD084600915658 /* ViewController.swift */,
 				21FB8BD526FD084600915658 /* Main.storyboard */,
 				21FB8BD826FD084900915658 /* Assets.xcassets */,
+				21FB8C0426FDA35900915658 /* MovieCell.swift */,
 				21FB8BDA26FD084900915658 /* LaunchScreen.storyboard */,
 				21FB8BDD26FD084900915658 /* Info.plist */,
 			);
@@ -272,6 +275,7 @@
 				21FB8BD426FD084600915658 /* ViewController.swift in Sources */,
 				21FB8BD026FD084600915658 /* AppDelegate.swift in Sources */,
 				21FB8BD226FD084600915658 /* SceneDelegate.swift in Sources */,
+				21FB8C0526FDA35900915658 /* MovieCell.swift in Sources */,
 				21FB8C0026FD313F00915658 /* MovieViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
